@@ -17,9 +17,21 @@ DevGP is a batch software tool designed to help developers implement the seven s
 3. Double-click the batch file to create a new project structure.
 
 ## Usage
+1. Open the folder `Software Projects`
+2. Run the [`DevGP v2.0.0.bat`](https://github.com/FarisAlmutairi305/DevGP/blob/main/Software%20Projects/DevGP%20v2.0.0.bat) file by double-clicking it.
+3. The tool will create the folder structure based on the seven SDLC stages.
 
-1. Run the [`DevGP v2.0.0.bat`](https://github.com/FarisAlmutairi305/DevGP/blob/main/Software%20Projects/DevGP%20v2.0.0.bat) file by double-clicking it.
-2. The tool will create the folder structure based on the seven SDLC stages.
+## Screenshot 1
+![image](https://github.com/FarisAlmutairi305/DevGP/blob/main/screenshots/SS_1.png)
+
+## Screenshot 2
+![image](https://github.com/FarisAlmutairi305/DevGP/blob/main/screenshots/SS_2.png)
+
+## Screenshot 3
+![image](https://github.com/FarisAlmutairi305/DevGP/blob/main/screenshots/SS_3.png)
+
+## Screenshot 4
+![image](https://github.com/FarisAlmutairi305/DevGP/blob/main/screenshots/SS_4.png)
 
 ## Contributing
 
